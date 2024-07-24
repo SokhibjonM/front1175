@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: 50px 60px 70px 80px;
+    border: 10px solid blue;
+    padding: 50px; 
+}
+
+.in_box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+}
+
+.card1{
+    background-color: aqua;
+}
+.card2{
+    background-color: silver;
+}
